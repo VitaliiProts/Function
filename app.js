@@ -43,8 +43,11 @@ b();
 
 //	#1. Математические расчеты и функции
 
+var сalculations = function(arg1, arg2) {
+	return arg1 * arg2 + 777;
+}
 
-
+сalculations(36325,9824);
 
 
 
